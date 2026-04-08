@@ -3,11 +3,18 @@
   "version": "0.0.1",
   "description": "Replaces Pi's default working message with a rotating list of verbs.",
   "keywords": [
+    "claude",
+    "coding-agent",
+    "extension",
+    "pi-coding-agent",
     "pi-extension",
     "pi-package",
+    "pi-plugin",
+    "plugin",
     "spinner",
     "verbs"
   ],
+  "license": "MIT",
   "files": [
     "extensions",
     "package.json",
