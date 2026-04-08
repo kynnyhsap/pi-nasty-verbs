@@ -1,7 +1,6 @@
 {
   "name": "@kynnyhsap/pi-spinner-verbs",
   "version": "0.0.1",
-  "private": true,
   "description": "Replaces Pi's default working message with a rotating list of verbs.",
   "keywords": [
     "pi-extension",
@@ -9,15 +8,21 @@
     "spinner",
     "verbs"
   ],
+  "files": [
+    "extensions",
+    "package.json",
+    "README.md"
+  ],
   "type": "module",
   "peerDependencies": {
+    "@mariozechner/pi-agent-core": "*",
     "@mariozechner/pi-ai": "*",
     "@mariozechner/pi-coding-agent": "*",
     "@mariozechner/pi-tui": "*"
   },
   "pi": {
     "extensions": [
-      "./index.ts"
+      "./extensions/spinner-verbs.ts"
     ]
   }
 }
