@@ -1,7 +1,7 @@
 {
   "name": "@kynnyhsap/pi-spinner-verbs",
   "version": "0.0.1",
-  "description": "Replaces Pi's default working message with a rotating list of verbs.",
+  "description": "Replaces Pi's default 'Working...' message with a rotating list of verbs form Claude Code.",
   "keywords": [
     "claude",
     "coding-agent",

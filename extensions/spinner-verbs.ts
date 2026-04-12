@@ -23,6 +23,21 @@ export default function (pi: ExtensionAPI) {
 }
 
 export const SPINNER_VERBS = [
+  "Jerking",
+  "Twerking",
+  "Pissing",
+  "Shitting",
+  "Wanking",
+  "Humping",
+  "Cumming",
+  "Pooping",
+  "Slopping",
+  "Fapping",
+  "Banging",
+  "Spanking",
+] as const;
+
+export const CLAUDE_SPINNER_VERBS = [
   "Accomplishing",
   "Actioning",
   "Actualizing",

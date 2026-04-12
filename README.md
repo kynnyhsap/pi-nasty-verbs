@@ -1,3 +1,3 @@
 # pi-spinner-verbs
 
-A tiny Pi extension that replaces the default `Working...` message with rotating verbs.
+A tiny Pi extension that replaces default 'Working...' message with a rotating list of verbs form Claude Code.
