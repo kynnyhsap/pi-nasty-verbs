@@ -1,6 +1,6 @@
 {
   "name": "pi-nasty-verbs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Replaces Pi's default 'Working...' message with some better words.",
   "keywords": [
     "claude",
