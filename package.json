@@ -15,6 +15,14 @@
     "verbs"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kynnyhsap/pi-nasty-verbs.git"
+  },
+  "homepage": "https://github.com/kynnyhsap/pi-nasty-verbs",
+  "bugs": {
+    "url": "https://github.com/kynnyhsap/pi-nasty-verbs/issues"
+  },
   "files": [
     "index.ts",
     "nasty-verbs.ts",
