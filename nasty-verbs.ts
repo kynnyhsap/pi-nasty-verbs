@@ -11,5 +11,4 @@ export const NASTY_VERBS = [
   "Fapping",
   "Banging",
   "Spanking",
-
 ] as const;
