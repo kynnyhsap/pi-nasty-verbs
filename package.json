@@ -1,7 +1,7 @@
 {
-  "name": "@kynnyhsap/pi-spinner-verbs",
+  "name": "pi-nasty-verbs",
   "version": "0.0.1",
-  "description": "Replaces Pi's default 'Working...' message with a rotating list of verbs form Claude Code.",
+  "description": "Replaces Pi's default 'Working...' message with some better words.",
   "keywords": [
     "claude",
     "coding-agent",
@@ -16,20 +16,18 @@
   ],
   "license": "MIT",
   "files": [
-    "extensions",
+    "index.ts",
+    "nasty-verbs.ts",
     "package.json",
     "README.md"
   ],
   "type": "module",
   "peerDependencies": {
-    "@mariozechner/pi-agent-core": "*",
-    "@mariozechner/pi-ai": "*",
-    "@mariozechner/pi-coding-agent": "*",
-    "@mariozechner/pi-tui": "*"
+    "@mariozechner/pi-coding-agent": "*"
   },
   "pi": {
     "extensions": [
-      "./extensions/spinner-verbs.ts"
+      "./index.ts"
     ]
   }
 }
