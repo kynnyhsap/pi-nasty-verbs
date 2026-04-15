@@ -1,6 +1,6 @@
 {
   "name": "pi-nasty-verbs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Replaces Pi's default 'Working...' message with some better words.",
   "keywords": [
     "claude",
@@ -14,14 +14,14 @@
     "spinner",
     "verbs"
   ],
+  "homepage": "https://github.com/kynnyhsap/pi-nasty-verbs",
+  "bugs": {
+    "url": "https://github.com/kynnyhsap/pi-nasty-verbs/issues"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kynnyhsap/pi-nasty-verbs.git"
-  },
-  "homepage": "https://github.com/kynnyhsap/pi-nasty-verbs",
-  "bugs": {
-    "url": "https://github.com/kynnyhsap/pi-nasty-verbs/issues"
   },
   "files": [
     "index.ts",
